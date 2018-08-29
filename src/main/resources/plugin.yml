@@ -1,0 +1,4 @@
+name: MAlchemy
+version: 1.0
+main: AT.MSev.MAlchemy.MAlchemy
+api-version: 1.13
